@@ -91,6 +91,7 @@ function start() {
   move()
   generateDirt()
 }
+(start)
 
 
 // creating a room dimension 5X5
@@ -106,6 +107,8 @@ function init() {
   $(document).on('keydown', handleKeyDown)
 
 }
+(init)
 
-$(init)
-$(start)
+// *** on submit retutrn final hoover position and patches cleaned
+
+// *** count cleaned dirt and return sum of them in the output
