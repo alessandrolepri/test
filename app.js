@@ -4,9 +4,9 @@ let $squares
 const roomba = [24] // starting from bottom left corner (x: 0, y:0)
 let direction
 
-const point = ['N', 'S', 'E', 'W'] // drive instruction input
-
-let road = [] // empty array to be populated by 'point' on input
+// const point = ['N', 'S', 'E', 'W'] // drive instruction input
+//
+// let road = [] // empty array to be populated by 'point' on input
 
 
 
